@@ -1,0 +1,27 @@
+body {
+  font-size: 110%;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Slabo 27px', serif;
+}
+
+h4 {
+  font-size: 1.4em;
+  color: #003300;
+  margin-top: 4px;
+}
+ul li {
+  font-family: 'Slabo 27px', serif;
+  font-size: 1.2em;
+}
+div {
+  margin-top: 8px;
+}
+.bold {
+  font-weight: bold;
+}
+.bright {
+  font-weight: bold;
+  color: rgb(46, 139, 87);
+}
